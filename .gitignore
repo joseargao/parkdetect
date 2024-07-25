@@ -1,0 +1,13 @@
+__build__image__/*
+*__pycache__*
+
+*.png
+*.mp4
+*.pt
+edgetpu*
+calibration*
+*.DS_Store*
+*datasets*
+*.jpg*
+*.jpeg*
+*.txt*
