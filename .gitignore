@@ -3,7 +3,6 @@ __build__image__/*
 
 *.png
 *.mp4
-*.pt
 edgetpu*
 calibration*
 *.DS_Store*
